@@ -18,3 +18,4 @@ It is primary based on the principles of Fundamentals of Database Systems by Elm
 ## How to run
 
 npm install
+python3 main.py
