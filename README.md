@@ -14,3 +14,7 @@ Database schema: The database schema is designed using ERWin and migrated to SQL
 RESTful API: The RESTful API is built using Node.js and provides a user-friendly interface for interacting with the database. The API supports CRUD operations (Create, Read, Update, Delete) and allows clients to access and manipulate data securely.
 
 It is primary based on the principles of Fundamentals of Database Systems by Elmasri and Navathe.
+
+## How to run
+
+npm install
